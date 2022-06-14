@@ -1,0 +1,38 @@
+.bgImg{
+    background-image: url(/Assets/images/vegeimg1.webp);
+    height: 350px;
+    object-fit: contain;
+}
+
+.abtVideo{
+    background-image: url(/Assets/images/aboutVivi.webp);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+}
+
+.bgm{
+    background-image: url(/Assets/images/bg-img.webp);
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0px;
+    margin-top: 50px;
+    opacity: 0.6;
+    position: relative;
+}
+
+.playicon{
+    background-color: #82AE46;
+    padding: 25px;
+    display: inline;
+    border-radius: 50%;
+    position: absolute;
+    left: 45%;
+    top: 40%;
+}
+
+.playicon i{
+    font-size: 30px;
+    color: white;
+}
